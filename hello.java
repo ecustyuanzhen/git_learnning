@@ -1,5 +1,7 @@
 public class test{
-	public static void main(String args[]){
-		System.out.prin("hello");
+	pubstic static void main(String args[]){
+		int i = 0;	
+		System.out.prinln("hello");
+>>>>>>> Stashed changes
 	}
 }
