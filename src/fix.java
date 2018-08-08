@@ -4,4 +4,7 @@
  */
 
 public class fix {
+    public static void main(){
+
+    }
 }
