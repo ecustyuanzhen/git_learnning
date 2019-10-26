@@ -11,4 +11,7 @@ public class test{
 	public void m(){
 
 	}
+	public void get(){
+
+	}
 }
